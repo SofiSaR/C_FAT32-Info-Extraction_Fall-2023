@@ -1,4 +1,4 @@
-# Project 3-Group 25
+# Extracting Info from FAT32 Image
 
 [Our shell gives the ability to view a user's shell info, execute simple commands,
 check if errors exist in commands, and run commands concurrently in the background. ]
